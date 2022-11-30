@@ -1,0 +1,50 @@
+div  {
+    background-color: blueviolet;
+    color: white;
+    border: solid 10px black;
+    padding: 15px 45px 15px 10px;
+    margin: 20px 1px 20px 10px;
+   
+}
+
+p{
+    background-color: bisque;
+    color: white;
+
+}
+
+h1{
+    color: darkgreen;
+    background-color: aqua;
+}
+
+.caixa{
+    background-color: chocolate;
+    border: solid 5px red;
+}
+
+.borda_verde{
+    border: solid 2px green;
+} 
+
+.caixa a {
+    border: 2px solid green;
+    background-color: yellow;
+}
+
+
+#ultima-caixa, p{
+    margin-top: 80px;
+}
+
+#ultima-caixa{
+ background-color: chartreuse;
+}
+
+a{
+    text-decoration: none;
+    
+}
+p a{
+    color: darkorange;
+}    
